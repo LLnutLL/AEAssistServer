@@ -6,7 +6,7 @@
 ## 使用教程
 在使用之前应当关闭所有流量转发及VPN软件以及卫月如果已经注入应当关闭游戏             
 下载ProxifierSetup.exe并且安装 导入ProxifierConfig(直接拖入Proxifier)  
-并尝试访问网页http://175.178.228.101:20100确保成功      
+并尝试访问网页http://175.178.228.101:20100 确保成功      
 使用java17+ 启动AEAssistServer (java -jar DalamudPluginAEServer.jar)   
 启动成功后 下载ACR文件并且覆盖     
 随后安装Releases中的AEAssistCNVersion.7z 至卫月    
